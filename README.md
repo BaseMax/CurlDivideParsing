@@ -2,6 +2,16 @@
 
 A tiny library and script to divide and split a remote file to download that step by step. (Based on CURL)
 
+## Output
+
+##### $ php FileDivideParsing.php 
+```
+Total Size: 16101953
+Parts: 
+0 / 10485760
+10485760 / 16101953
+```
+
 ---------
 
 # Max Base
